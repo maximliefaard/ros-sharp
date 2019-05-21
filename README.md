@@ -2,7 +2,7 @@
 
 The modified version of the ros-sharp plugin for the LunarSim software package.
 - [LunarSimUnity](https://github.com/maximliefaard/LunarSimUnity)
-- [LunarSimROS](https://github.com/maximliefaard/LunarSimROS) [![Build Status](https://travis-ci.com/maximliefaard/LunarSimROS.svg?token=HHxHDH1ixWxyzTjFM72Z&branch=master)]
+- [LunarSimROS](https://github.com/maximliefaard/LunarSimROS) ![Build Status](https://travis-ci.com/maximliefaard/LunarSimROS.svg?token=HHxHDH1ixWxyzTjFM72Z&branch=master)
 
 ---
 
